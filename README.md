@@ -1,14 +1,14 @@
-## Welcome to My Digital Space! 👋
+# Welcome to My GitHub!
 
-I’m **Volodymyr Hetsko**, a passionate Front-End Developer and Markup Specialist with a flair for transforming ideas into stunning web experiences. My journey in web development is driven by an enthusiasm for crafting intuitive and visually striking interfaces that not only capture attention but also create meaningful interactions.
+Hi, I'm **Volodymyr Hetsko**, a passionate **Front-End Developer** and **Markup Specialist**. I love turning ideas into visually captivating and user-friendly web experiences. My expertise lies in creating intuitive and responsive interfaces that offer meaningful interactions.
 
-With a keen eye for detail and a dedication to user-centric design, I strive to turn every project into a seamless and engaging digital experience. From sleek, responsive layouts to precise markup, I ensure that every line of code contributes to a polished end result.
+I’m detail-oriented and focused on user-centric design, ensuring that each project delivers a seamless, polished digital experience. From precise markup to responsive layouts, I aim for perfection in every line of code.
 
-## Explore My Work:
-- Check out my [GitHub](https://github.com/VladimirGetsko) to see a curated collection of my coding projects and contributions.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/volodymyr-hetsko-74b971123/) to learn more about my professional journey and potential collaborations.
+Feel free to explore my projects and connect with me!
 
-Let’s embark on a journey of creativity and innovation — feel free to reach out!
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/VladimirGetsko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/volodymyr-hetsko-74b971123/)
+
 
 ### 🔧 Technologies and tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
