@@ -6,7 +6,7 @@ I’m detail-oriented and focused on user-centric design, ensuring that each pro
 
 Feel free to explore my projects and connect with me!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/VladimirGetsko)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://vladimirgetsko.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/volodymyr-hetsko-74b971123/)
 
 
