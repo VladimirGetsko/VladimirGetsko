@@ -15,7 +15,7 @@ Feel free to explore my projects and connect with me!
 ![React](https://img.shields.io/badge/React-16.8+-blue)
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-SASS%20%2F%20TailwindCSS-blue)
+![CSS](https://img.shields.io/badge/CSS-SCSS%20%2F%20TailwindCSS-blue)
 ![Git](https://img.shields.io/badge/Git-F6F6F6?logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Gulp](https://img.shields.io/badge/Gulp-4.0+-red)
