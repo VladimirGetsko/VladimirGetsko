@@ -1,28 +1,34 @@
-# Welcome to My GitHub!
+# Volodymyr Hetsko
 
-Hi, I'm **Volodymyr Hetsko**, a passionate **Front-End Developer** and **Markup Specialist**. I love turning ideas into visually captivating and user-friendly web experiences. My expertise lies in creating intuitive and responsive interfaces that offer meaningful interactions.
+Frontend Product Engineer building scalable, product-driven web applications with a strong focus on UX, business logic and frontend architecture.
 
-I’m detail-oriented and focused on user-centric design, ensuring that each project delivers a seamless, polished digital experience. From precise markup to responsive layouts, I aim for perfection in every line of code.
+I specialize in designing and implementing complex interfaces using modern React and Next.js ecosystems — combining clean UI, structured state management and production-grade frontend systems.
 
-Feel free to explore my projects and connect with me!
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://vladimirgetsko.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/volodymyr-hetsko-74b971123/)
+## Expertise
 
+- Product-oriented frontend development  
+- Complex UI flows & form systems  
+- Frontend business logic & state orchestration  
+- Design systems, theming & accessibility  
+- API integration & server-side interactions  
+- Performance-focused, maintainable architecture  
 
-### 🔧 Technologies and tools:
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![React](https://img.shields.io/badge/React-16.8+-blue)
-![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-SCSS%20%2F%20TailwindCSS-blue)
-![Git](https://img.shields.io/badge/Git-F6F6F6?logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Gulp](https://img.shields.io/badge/Gulp-4.0+-red)
-![Webpack](https://img.shields.io/badge/Webpack-5.0+-blue)
+---
 
-### 📈 GitHub Statistics:
+## Core Stack
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VladimirGetsko&show_icons=true&theme=light" alt="Vladimir's GitHub stats"/>
+Next.js · React · TypeScript · JavaScript (ES6+)  
+TailwindCSS · Radix UI  
+API integration · Component-driven architecture  
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirGetsko&layout=compact&theme=light" alt="Top Langs"/>
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/volodymyr-hetsko-74b971123/
+
+---
+
+Building frontend systems that align product vision, user experience and engineering quality.
